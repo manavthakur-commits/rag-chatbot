@@ -4,6 +4,12 @@ Northwind Knowledge Assistant lets you chat with PDFs, text files, and CSVs. Eve
 cites the retrieved document chunks it came from, grounding responses in your
 files instead of outside knowledge.
 
+## Try it online
+
+Open the live [Northwind Knowledge Assistant dashboard](https://rag-chatbot-manav.streamlit.app/).
+Enter your OpenAI API key, upload PDF, TXT, or CSV documents, and build a
+knowledge base to start asking questions.
+
 ## What it does
 
 - Upload PDF, TXT, and CSV files
